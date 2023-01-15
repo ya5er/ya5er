@@ -2,7 +2,11 @@
 <h3 align="center">I'm a Computer Science student at the University of Waterloo</h3>
 
 - 🔭 Past projects: 
-- [QuickStat](https://devpost.com/software/a-s7t3e6)
+[QuickStat](https://devpost.com/software/a-s7t3e6)
+[Parago](https://devpost.com/software/parago)
+[Aperio](https://devpost.com/software/a-s7t3e6](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit#slide=id.p)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
