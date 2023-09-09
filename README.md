@@ -1,16 +1,6 @@
 <h1 align="center">Hi, I'm Yaser 👋</h1>
 <h3 align="center">I'm a Computer Science student at the University of Waterloo</h3>
 
- 🔭 Past projects: 
-- [QuickStat](https://devpost.com/software/a-s7t3e6)
-- [Parago](https://devpost.com/software/parago)
-- [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit#slide=id.p)
-- [Apollo the Healthbot](https://devpost.com/software/apollo-the-healthbot)
-- [Watch w/ Me](https://devpost.com/software/watch-w-me)
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yaser-nossibeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaser-nossibeh" height="30" width="40" /></a>
